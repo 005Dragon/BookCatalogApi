@@ -1,0 +1,17 @@
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\bin\Debug\net6.0\BookCatalog.Api.Contracts.deps.json
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\bin\Debug\net6.0\BookCatalog.Api.Contracts.dll
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\bin\Debug\net6.0\BookCatalog.Api.Contracts.pdb
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\bin\Debug\net6.0\BookCatalog.Services.dll
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\bin\Debug\net6.0\BookCatalog.Storage.dll
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\bin\Debug\net6.0\BookCatalog.Services.pdb
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\bin\Debug\net6.0\BookCatalog.Storage.pdb
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\obj\Debug\net6.0\BookCatalog.Api.Contracts.csproj.AssemblyReference.cache
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\obj\Debug\net6.0\BookCatalog.Api.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\obj\Debug\net6.0\BookCatalog.Api.Contracts.AssemblyInfoInputs.cache
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\obj\Debug\net6.0\BookCatalog.Api.Contracts.AssemblyInfo.cs
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\obj\Debug\net6.0\BookCatalog.Api.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\obj\Debug\net6.0\BookCatalog.Api.Contracts.csproj.CopyComplete
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\obj\Debug\net6.0\BookCatalog.Api.Contracts.dll
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\obj\Debug\net6.0\refint\BookCatalog.Api.Contracts.dll
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\obj\Debug\net6.0\BookCatalog.Api.Contracts.pdb
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Api.Contracts\obj\Debug\net6.0\ref\BookCatalog.Api.Contracts.dll

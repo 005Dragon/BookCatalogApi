@@ -1,0 +1,14 @@
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\bin\Debug\net6.0\BookCatalog.Storage.deps.json
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\bin\Debug\net6.0\BookCatalog.Storage.dll
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\bin\Debug\net6.0\BookCatalog.Storage.pdb
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\obj\Debug\net6.0\BookCatalog.Storage.csproj.AssemblyReference.cache
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\obj\Debug\net6.0\BookCatalog.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\obj\Debug\net6.0\BookCatalog.Storage.AssemblyInfoInputs.cache
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\obj\Debug\net6.0\BookCatalog.Storage.AssemblyInfo.cs
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\obj\Debug\net6.0\BookCatalog.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\obj\Debug\net6.0\BookCatalog.Storage.dll
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\obj\Debug\net6.0\refint\BookCatalog.Storage.dll
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\obj\Debug\net6.0\BookCatalog.Storage.pdb
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\obj\Debug\net6.0\ref\BookCatalog.Storage.dll
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\bin\Debug\net6.0\BookCatalog.Storage.runtimeconfig.json
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalog.Storage\obj\Debug\net6.0\BookCatalog.Storage.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalogApi.Contracts\bin\Debug\net6.0\BookCatalogApi.Contracts.deps.json
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalogApi.Contracts\bin\Debug\net6.0\BookCatalogApi.Contracts.dll
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalogApi.Contracts\bin\Debug\net6.0\BookCatalogApi.Contracts.pdb
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalogApi.Contracts\obj\Debug\net6.0\BookCatalogApi.Contracts.csproj.AssemblyReference.cache
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalogApi.Contracts\obj\Debug\net6.0\BookCatalogApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalogApi.Contracts\obj\Debug\net6.0\BookCatalogApi.Contracts.AssemblyInfoInputs.cache
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalogApi.Contracts\obj\Debug\net6.0\BookCatalogApi.Contracts.AssemblyInfo.cs
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalogApi.Contracts\obj\Debug\net6.0\BookCatalogApi.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalogApi.Contracts\obj\Debug\net6.0\BookCatalogApi.Contracts.dll
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalogApi.Contracts\obj\Debug\net6.0\refint\BookCatalogApi.Contracts.dll
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalogApi.Contracts\obj\Debug\net6.0\BookCatalogApi.Contracts.pdb
+C:\Users\Антон\RiderProjects\BookCatalogApi\BookCatalogApi.Contracts\obj\Debug\net6.0\ref\BookCatalogApi.Contracts.dll
